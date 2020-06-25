@@ -1,0 +1,2 @@
+# wellness
+JavaScript beginner project! :)
